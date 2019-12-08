@@ -18,5 +18,11 @@ python Vilchez/simple04.py "Kevin" 11 15 17 16
 python Vilchez/simple04.py "Guadalupe" 18 20 15 16
 
 
+python Vilchez/simple05.py "Axel" "pantalones"  4 80
+python Vilchez/simple05.py "Santiago" "zapatillas" 2 350
+python Vilchez/simple05.py "Diego" "tv" 1 1800
+
+
+
 
 
