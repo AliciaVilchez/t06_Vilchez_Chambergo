@@ -22,6 +22,11 @@ python Vilchez/simple05.py "Axel" "pantalones"  4 80
 python Vilchez/simple05.py "Santiago" "zapatillas" 2 350
 python Vilchez/simple05.py "Diego" "tv" 1 1800
 
+python Vilchez/simple06.py "Valentin" "Doctor" 38 "24meses"
+python Vilchez/simple06.py "Luis" "Ingeniero de sitemas" 27 "6meses"
+python Vilchez/simple06.py "Sergio" "Contador" 35 "12meses"
+
+
 
 
 
