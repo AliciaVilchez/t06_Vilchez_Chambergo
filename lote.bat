@@ -86,6 +86,11 @@ python Vilchez/condicionales.multiples21.py "zapatillas" 350
 python Vilchez/condicionales.multiples21.py "zapatillas" 220
 python Vilchez/condicionales.multiples21.py "cartera Renzo Costa" 95
 
+python Vilchez/condicionales.multiples22.py "Alicia" 28 60 10
+python Vilchez/condicionales.multiples22.py "Patrick" 26 50 5
+python Vilchez/condicionales.multiples22.py "Keyla" 23 30 6
+
+
 
 
 
