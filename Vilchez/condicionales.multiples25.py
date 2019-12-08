@@ -10,6 +10,7 @@ costo=float(os.sys.argv[4])
 
 #PROCESSING
 total=cant*costo
+#condicion multiple
 # Si el total supera 400 ("comprador compulsivo")
 if(total > 400):
     print("comprador compulsivo")
