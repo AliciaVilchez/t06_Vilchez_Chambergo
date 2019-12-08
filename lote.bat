@@ -91,6 +91,15 @@ python Vilchez/condicionales.multiples22.py "Patrick" 26 50 5
 python Vilchez/condicionales.multiples22.py "Keyla" 23 30 6
 
 
+python Vilchez/condicionales.multiples23.py "Rita" 7
+python Vilchez/condicionales.multiples23.py "Carlos" 5
+python Vilchez/condicionales.multiples23.py "Jose" 3
+
+
+
+
+
+
 
 
 

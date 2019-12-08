@@ -1,5 +1,4 @@
 #Programa 13
-# Programa 03
 import os
 alumno,horas_dedicadas_al_estudio_por_dia,total_de_horas_por_semana="",0,0.0
 
