@@ -8,6 +8,7 @@ costo_Uni=float(os.sys.argv[2])
 
 #PROCESSING
 #Si el producto supera 300, mostrar "marca original"
+# caso contrario mostrar "Replica"
 if(costo_Uni > 300 ):
     print(producto, "marca original")
 else:

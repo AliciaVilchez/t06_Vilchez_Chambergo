@@ -46,6 +46,13 @@ python Vilchez/condicionales.dobles11.py "zapatillas" 350
 python Vilchez/condicionales.dobles11.py "zapatillas" 150
 python Vilchez/condicionales.dobles11.py "cartera Renzo Costa" 500
 
+python Vilchez/condicionales.dobles12.py "Alicia" 28 50 10
+python Vilchez/condicionales.dobles12.py "Patrick" 28 75 10
+python Vilchez/condicionales.dobles12.py "Keyla" 27 50 5
+
+
+
+
 
 
 
