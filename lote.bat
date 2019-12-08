@@ -119,7 +119,14 @@ python Vilchez/condicionales.multiples29.py "Andre" "Coronel de la Marina" 100 6
 python Vilchez/condicionales.multiples29.py "Monica" "Jefa de mantenimiento" 135 7
 python Vilchez/condicionales.multiples29.py "Arsenio" "SubGeneral" 0 0
 
+python Vilchez/condicionales.multiples30.py "Josefina" 180 300
+python Vilchez/condicionales.multiples30.py "Eduardo" 100 100
+python Vilchez/condicionales.multiples30.py "Blanca" 50 110
 
+
+python Chambergo/Simple1.py "pastillas" 18
+python Chambergo/Simple1.py "pastillas" 19
+python Chambergo/Simple1.py "pastillas" 14
 
 
 
