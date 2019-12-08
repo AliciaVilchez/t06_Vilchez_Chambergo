@@ -128,6 +128,10 @@ python Chambergo/Simple1.py "pastillas" 18
 python Chambergo/Simple1.py "pastillas" 19
 python Chambergo/Simple1.py "pastillas" 14
 
+python Chambergo/Simple2.py "usuario1" 13
+python Chambergo/Simple2.py "usuario2" 14
+python Chambergo/Simple2.py "usuario3" 16
+
 
 
 

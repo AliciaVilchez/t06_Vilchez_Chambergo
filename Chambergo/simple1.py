@@ -12,3 +12,4 @@ if(cant_de_medicamento_por_dia > 15 ):
     print(medicamento, "automedicacion")
 #fin_if
 
+
