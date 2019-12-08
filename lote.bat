@@ -74,6 +74,20 @@ python Vilchez/condicionales.dobles18.py "Juana" 2019 1996
 python Vilchez/condicionales.dobles18.py "Tomas" 2019 2005
 python Vilchez/condicionales.dobles18.py "Angie" 2019 2002
 
+python Vilchez/condicionales.dobles19.py "Andre" "Coronel de la Marina" 100 6
+python Vilchez/condicionales.dobles19.py "Monica" "Jefa de mantenimiento" 50 4
+python Vilchez/condicionales.dobles19.py "Arsenio" "SubGeneral" 80 7
+
+python Vilchez/condicionales.dobles20.py "Josefina" 180 150
+python Vilchez/condicionales.dobles20.py "Eduardo" 100 100
+python Vilchez/condicionales.dobles20.py "Blanca" 50 80
+
+
+
+
+
+
+
 
 
 
