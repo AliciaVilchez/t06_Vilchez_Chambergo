@@ -107,6 +107,11 @@ python Vilchez/condicionales.multiples26.py "Valentin" "Doctor" 38 "24meses"
 python Vilchez/condicionales.multiples26.py "Luis" "abogado" 27 "18meses"
 python Vilchez/condicionales.multiples26.py "Sergio" "contador" 35 "14meses"
 
+python Vilchez/condicionales.multiples27.py "Lidia" "Particular" 49 "Si"
+python Vilchez/condicionales.multiples27.py "Antonio" "SIS" 55 "No"
+python Vilchez/condicionales.multiples27.py "Elena" "ESsalud" 38 "Si"
+
+
 
 
 
