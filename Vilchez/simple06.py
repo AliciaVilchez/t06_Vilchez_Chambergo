@@ -1,4 +1,4 @@
-#Programa 07
+#Programa 06
 import os
 nombre,profesion,edad,tiempo_de_trabajo="","",0,""
 
