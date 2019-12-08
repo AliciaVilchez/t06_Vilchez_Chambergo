@@ -30,6 +30,10 @@ python Vilchez/simple07.py "Lidia" "Particular" 49 "Si"
 python Vilchez/simple07.py "Antonio" "Particular" 55 "Si"
 python Vilchez/simple07.py "Elena" "Seguro" 38 "No"
 
+python Vilchez/simple08.py "Juana" 2019 1996
+python Vilchez/simple08.py "Tomas" 2019 1987
+python Vilchez/simple08.py "Angie" 2019 2002
+
 
 
 
