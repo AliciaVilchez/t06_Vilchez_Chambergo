@@ -132,6 +132,118 @@ python Chambergo/Simple2.py "usuario1" 13
 python Chambergo/Simple2.py "usuario2" 14
 python Chambergo/Simple2.py "usuario3" 16
 
+python Chambergo/Simple3.py "alumno1" 5
+python Chambergo/Simple3.py "alumno2" 8
+python Chambergo/Simple3.py "alumno3" 7
+
+python Chambergo/Simple4.py "cartera" 220
+python Chambergo/Simple4.py "casaca" 280
+python Chambergo/Simple4.py "botas" 350
+
+python Chambergo/Simple5.py "Pedro" 4
+python Chambergo/Simple5.py "Juan" 7
+python Chambergo/Simple5.py "Cesar" 9
+
+python Chambergo/Simple6.py "cliente1" 35
+python Chambergo/Simple6.py "cliente2" 85
+python Chambergo/Simple6.py "cliente3" 76
+
+python Chambergo/Simple7.py "alumno1" 15
+python Chambergo/Simple7.py "alumno2" 14
+python Chambergo/Simple7.py "alumno3" 13
+
+python Chambergo/Simple8.py "trabajador1" 42
+python Chambergo/Simple8.py "trabajador2" 42
+python Chambergo/Simple8.py "trabajador3" 40
+
+python Chambergo/Simple9.py "Julio" 42
+python Chambergo/Simple9.py "Andres" 65
+python Chambergo/Simple9.py "Sandra" 35
+
+python Chambergo/Simple10.py "cliente01" 53
+python Chambergo/Simple10.py "cliente02" 48
+python Chambergo/Simple10.py "cliente03" 57
+
+python Chambergo/Doble1.py "pastillas" 13
+python Chambergo/Doble1.py "pastillas" 10
+python Chambergo/Doble1.py "pastillas" 9
+
+python Chambergo/Doble2.py "usuario01" 10
+python Chambergo/Doble2.py "usuario02" 8
+python Chambergo/Doble2.py "usuario03" 6
+
+python Chambergo/Doble3.py "alumno01" 9
+python Chambergo/Doble3.py "alumno01" 4
+python Chambergo/Doble3.py "alumno01" 8
+
+python Chambergo/Doble4.py "cartera" 150
+python Chambergo/Doble4.py "casaca" 220
+python Chambergo/Doble4.py "botas" 180
+
+python Chambergo/Doble5.py "Percy" 5
+python Chambergo/Doble5.py "Javier" 3
+python Chambergo/Doble5.py "Cecilio" 6
+
+python Chambergo/Doble6.py "cliente01" 65
+python Chambergo/Doble6.py "cliente02" 35
+python Chambergo/Doble6.py "cliente03" 43
+
+python Chambergo/Doble7.py "alumno01" 11
+python Chambergo/Doble7.py "alumno02" 12
+python Chambergo/Doble7.py "alumno03" 15
+
+python Chambergo/Doble8.py "trabajador01" 35
+python Chambergo/Doble8.py "trabajador02" 26
+python Chambergo/Doble8.py "trabajador03" 45
+
+python Chambergo/Doble9.py "Juanes" 23
+python Chambergo/Doble9.py "Andrea" 44
+python Chambergo/Doble9.py "Sandy" 32
+
+python Chambergo/Doble10.py "cliente1" 24
+python Chambergo/Doble10.py "cliente2" 15
+python Chambergo/Doble10.py "cliente3" 56
+
+python Chambergo/Multiple1.py "pastillas" 6 3 2
+python Chambergo/Multiple1.py "pastillas" 7 4 3
+python Chambergo/Multiple1.py "pastillas" 8 5 3
+
+python Chambergo/Multiple2.py "usuario1" 13 9 5
+python Chambergo/Multiple2.py "usuario2" 11 7 4
+python Chambergo/Multiple2.py "usuario3" 10 8 6
+
+python Chambergo/Multiple3.py "alumno1" 26 18 9
+python Chambergo/Multiple3.py "alumno2" 25 19 11
+python Chambergo/Multiple3.py "alumno3" 24 20 11
+
+python Chambergo/Multiple4.py "cartera" 350 200 78
+python Chambergo/Multiple4.py "casaca" 290 180 80
+python Chambergo/Multiple4.py "botas" 250 240 65
+
+python Chambergo/Multiple5.py "Juliana" 10 5 1
+python Chambergo/Multiple5.py "Karlos" 15 7 2
+python Chambergo/Multiple5.py "Jesus" 9 8 1
+
+python Chambergo/Multiple6.py "cliente1" 550 280 100
+python Chambergo/Multiple6.py "cliente2" 500 305 98
+python Chambergo/Multiple6.py "cliente3" 480 224 76
+
+python Chambergo/Multiple7.py "alumno1" 15 12 9
+python Chambergo/Multiple7.py "alumno2" 14 13 10
+python Chambergo/Multiple7.py "alumno3" 13 14 11
+
+python Chambergo/Multiple8.py "Juliana" 45 35 28
+python Chambergo/Multiple8.py "Karlos" 40 30 30
+python Chambergo/Multiple8.py "Jesus" 50 45 36
+
+python Chambergo/Multiple9.py "trabajador1" 61 32 9
+python Chambergo/Multiple9.py "trabajador2" 59 29 4
+python Chambergo/Multiple9.py "trabajador3" 45 34 10
+
+python Chambergo/Multiple10.py "cliente01" 55 15 7
+python Chambergo/Multiple10.py "cliente02" 50 30 10
+python Chambergo/Multiple10.py "cliente03" 48 29 6
+
 
 
 
