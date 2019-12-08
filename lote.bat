@@ -95,9 +95,15 @@ python Vilchez/condicionales.multiples23.py "Rita" 7
 python Vilchez/condicionales.multiples23.py "Carlos" 5
 python Vilchez/condicionales.multiples23.py "Jose" 3
 
-python Vilchez/condicionales.dobles14.py "Karla" 20 18 19 20
-python Vilchez/condicionales.dobles14.py "Kevin" 17 16 15 16
-python Vilchez/condicionales.dobles14.py "Guadalupe" 12 11 11 10
+python Vilchez/condicionales.multiples24.py "Karla" 20 18 19 20
+python Vilchez/condicionales.multiples24.py "Kevin" 17 16 15 16
+python Vilchez/condicionales.multiples24.py "Guadalupe" 12 11 11 10
+
+python Vilchez/condicionales.multiples25.py "Axel" "pantalones" 6 80
+python Vilchez/condicionales.multiples25.py "Santiago" "zapatillas" 1 280
+python Vilchez/condicionales.multiples25.py "Diego" "polos" 1 60
+
+
 
 
 
