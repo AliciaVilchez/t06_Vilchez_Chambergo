@@ -1,4 +1,4 @@
-# Programa 07
+# Programa 17
 import os
 paciente,tipo_de_atencion,edad,pago_consulta="","",0,""
 

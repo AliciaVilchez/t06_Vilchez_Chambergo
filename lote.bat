@@ -70,6 +70,13 @@ python Vilchez/condicionales.dobles17.py "Lidia" "Particular" 49 "Si"
 python Vilchez/condicionales.dobles17.py "Antonio" "Seguro" 55 "No"
 python Vilchez/condicionales.dobles17.py "Elena" "Seguro" 38 "No"
 
+python Vilchez/condicionales.dobles18.py "Juana" 2019 1996
+python Vilchez/condicionales.dobles18.py "Tomas" 2019 2005
+python Vilchez/condicionales.dobles18.py "Angie" 2019 2002
+
+
+
+
 
 
 
