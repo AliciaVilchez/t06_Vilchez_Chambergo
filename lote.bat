@@ -42,6 +42,12 @@ python Vilchez/simple10.py "Josefina" 180 150
 python Vilchez/simple10.py "Eduardo" 100 100
 python Vilchez/simple10.py "Blanca" 50 80
 
+python Vilchez/condicionales.dobles11.py "zapatillas" 350
+python Vilchez/condicionales.dobles11.py "zapatillas" 150
+python Vilchez/condicionales.dobles11.py "cartera Renzo Costa" 500
+
+
+
 
 
 
