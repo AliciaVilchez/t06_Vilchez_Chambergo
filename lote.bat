@@ -38,6 +38,12 @@ python Vilchez/simple09.py "Andre" "Coronel de la Marina" 100 6
 python Vilchez/simple09.py "Monica" "Jefa de mantenimiento" 50 4
 python Vilchez/simple09.py "Arsenio" "SubGeneral" 80 7
 
+python Vilchez/simple10.py "Josefina" 180 150
+python Vilchez/simple10.py "Eduardo" 100 100
+python Vilchez/simple10.py "Blanca" 50 80
+
+
+
 
 
 
