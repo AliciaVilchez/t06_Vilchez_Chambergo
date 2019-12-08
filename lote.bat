@@ -115,6 +115,12 @@ python Vilchez/condicionales.multiples28.py "Juana" 2019 1996
 python Vilchez/condicionales.multiples28.py "Tomas" 2019 2018
 python Vilchez/condicionales.multiples28.py "Angie" 2019 2005
 
+python Vilchez/condicionales.multiples29.py "Andre" "Coronel de la Marina" 100 6
+python Vilchez/condicionales.multiples29.py "Monica" "Jefa de mantenimiento" 135 7
+python Vilchez/condicionales.multiples29.py "Arsenio" "SubGeneral" 0 0
+
+
+
 
 
 
