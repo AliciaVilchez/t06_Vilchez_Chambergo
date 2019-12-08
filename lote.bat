@@ -111,6 +111,13 @@ python Vilchez/condicionales.multiples27.py "Lidia" "Particular" 49 "Si"
 python Vilchez/condicionales.multiples27.py "Antonio" "SIS" 55 "No"
 python Vilchez/condicionales.multiples27.py "Elena" "ESsalud" 38 "Si"
 
+python Vilchez/condicionales.multiples28.py "Juana" 2019 1996
+python Vilchez/condicionales.multiples28.py "Tomas" 2019 2018
+python Vilchez/condicionales.multiples28.py "Angie" 2019 2005
+
+
+
+
 
 
 
